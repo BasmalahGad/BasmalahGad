@@ -65,8 +65,9 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
   <a href="https://www.linkedin.com/in/basmala-gad-5813a3244/">
     <img height="40" src="./icons/contact/linkedin.svg">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="t.me/BGad_1968">
-  <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-        dc618525ad6b.png">
+  <a href="https://t.me/BGad_1968">
+    <img height="40" src="./icons/contact/telegram.svg">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a> 
   <a href="mailto:basmalahgad@gmail.com">
     <img height="40" src="./icons/contact/gmail.svg">
