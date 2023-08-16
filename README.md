@@ -1,16 +1,79 @@
-### Hi there 👋
+<div>
+  
+# Basmala Mohamed Sayed Gad
 
-<!--
-**BasmalahGad/BasmalahGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year computer science student at Cairo University.<br/>
+To learn about my experiences you can download
+[My Resume](https://drive.google.com/file/d/1SOsHaMKu0UyyQ6qLn8Ue82Kpjl-CWxOO/view?usp=sharing)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div>
+  
+## Education
+
+Cairo University, Bachelor of Science in Computer Science (expected graduation: 2025)
+
+</div>
+
+<br>
+
+<div>
+
+## Programming languages
+
+<p>
+  <img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/programming languages/c-sharp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/programming languages/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>
+  <img height="50" src="./icons/programming languages/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/programming languages/django.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>
+  <img height="50" src="./icons/programming languages/html5.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/programming languages/css3.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/programming languages/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+</div>
+
+<br>
+
+<div>
+
+## Databases
+
+<p>
+  <img height="50" src="./icons/databases/sql-server.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+</div>
+
+<br>
+
+<div>
+
+## Follow me on
+
+<p>
+  <a href="https://www.linkedin.com/in/basmala-gad-5813a3244/">
+    <img height="40" src="./icons/contact/linkedin.svg">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="@BGad_1968">
+  <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-        dc618525ad6b.png">
+  </a> 
+  <a href="mailto:basmalahgad@gmail.com">
+    <img height="40" src="./icons/contact/gmail.svg">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/BGad">
+    <img height="40" src="./icons/contact/codeforces.svg">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+</div>
