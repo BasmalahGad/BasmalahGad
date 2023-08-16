@@ -82,7 +82,13 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <div>
 
   ## GitHub Stats
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BasmalahGad&show_icons=true&locale=en&layout=compact" alt="BasmalahGad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BasmalahGad&show_icons=true&locale=en" alt="BasmalahGad" /></p>
+<table><tr><td valign="top" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BasmalahGad&theme=buefy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasmalahGad&theme=buefy&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
