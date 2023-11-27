@@ -3,8 +3,6 @@
 # Basmala Mohamed Sayed Gad
 
 I am a third-year computer science student at Cairo University.<br/>
-To learn about my experiences you can download
-[My Resume](https://drive.google.com/file/d/1SOsHaMKu0UyyQ6qLn8Ue82Kpjl-CWxOO/view?usp=sharing)
 
 </div>
 
