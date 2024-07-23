@@ -26,20 +26,14 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
   <img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/c-sharp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-<p>
   <img height="50" src="./icons/programming languages/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/django.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-<p>
   <img height="50" src="./icons/programming languages/html5.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/css3.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-<p>
   <img height="50" src="./icons/programming languages/spring-boot.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/nodejs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
