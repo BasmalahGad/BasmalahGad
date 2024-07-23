@@ -19,7 +19,10 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <be>
 
 <div>
-## Programming Languages
+  <div>
+    ## Programming Languages
+  </div>
+
 <p>
   <img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/c-sharp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
