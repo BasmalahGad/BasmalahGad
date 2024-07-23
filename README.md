@@ -2,9 +2,7 @@
   
 # Basmala Mohamed Sayed Gad
 
-I am a third-year computer science student at Cairo University.<br/>
-To learn about my experiences you can download
-[My Resume](https://drive.google.com/file/d/1SOsHaMKu0UyyQ6qLn8Ue82Kpjl-CWxOO/view?usp=sharing)
+I am a fourth-year computer science student at Cairo University.<br/>
 
 </div>
 
@@ -22,7 +20,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 
 <div>
 
-## Programming languages
+## Programming Languages
 
 <p>
   <img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +45,15 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 
 <div>
 
+  ## Tools
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  
+</div>
+
+<br> 
+
+<div>
+
 ## Databases
 
 <p>
@@ -65,8 +72,9 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
   <a href="https://www.linkedin.com/in/basmala-gad-5813a3244/">
     <img height="40" src="./icons/contact/linkedin.svg">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="@BGad_1968">
-  <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-        dc618525ad6b.png">
+  <a href="https://t.me/BGad_1968">
+    <img height="40" src="./icons/contact/telegram.svg">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a> 
   <a href="mailto:basmalahgad@gmail.com">
     <img height="40" src="./icons/contact/gmail.svg">
@@ -77,3 +85,17 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 </p>
 
 </div>
+
+<div>
+
+  ## GitHub Stats
+
+<table><tr><td valign="top" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BasmalahGad&theme=buefy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasmalahGad&theme=buefy&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
