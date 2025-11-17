@@ -2,7 +2,7 @@
   
 # Basmala Mohamed Sayed Gad
 
-I am a fourth-year computer science student at Cairo University.<br/>
+I’m a Software Engineer with hands-on experience in backend development, cloud technologies, and DevOps. I’ve built scalable systems using Java, Spring Boot, Node.js, and PostgreSQL, and worked with Docker, Kubernetes, AWS, and Terraform to automate and optimize deployments. I’ve contributed to Agile teams on projects ranging from microservices architectures to project-management tooling, focusing on clean design, CI/CD automation, and observability. I’m passionate about building reliable software, learning new technologies, and delivering solutions that improve engineering workflows.<br/>
 
 </div>
 
@@ -12,7 +12,7 @@ I am a fourth-year computer science student at Cairo University.<br/>
   
 ## Education
 
-Cairo University, Bachelor of Science in Computer Science (expected graduation: 2025)
+Cairo University, Bachelor of Science in Computer Science.
 
 </div>
 
