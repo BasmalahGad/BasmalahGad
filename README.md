@@ -12,7 +12,7 @@ I’m a Software Engineer with hands-on experience in backend development, cloud
   
 ## Education
 
-Cairo University, Bachelor of Science in Computer Science.
+Cairo University, Bachelor's in Computer Science.
 
 </div>
 
